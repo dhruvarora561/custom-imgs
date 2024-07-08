@@ -178,10 +178,10 @@
 			<UserAccounts>
 				<LocalAccounts>
 					<LocalAccount wcm:action="add">
-						<Name>Admin</Name>
+						<Name>vagrant</Name>
 						<Group>Administrators</Group>
 						<Password>
-							<Value>password</Value>
+							<Value>vagrant</Value>
 							<PlainText>true</PlainText>
 						</Password>
 					</LocalAccount>
